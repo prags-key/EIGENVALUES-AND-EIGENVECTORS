@@ -16,7 +16,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### e_values,e_vectors=np.linalg.eig(matrix)
 ### print("Eigen values are {} and Eigen Vectors are {}".format(e_values,e_vectors))
 ## Output:
-![eigen values and eigen vectors](https://github.com/user-attachments/assets/92ccc4e0-0449-47b3-b96d-3b6e2d035f78)
+![alt text](image.png)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
